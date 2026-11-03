@@ -213,7 +213,6 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.Enabled = false;
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
             this.pictureBox6.Location = new System.Drawing.Point(60, 539);
             this.pictureBox6.Name = "pictureBox6";
@@ -257,7 +256,6 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Enabled = false;
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
             this.pictureBox5.Location = new System.Drawing.Point(59, 448);
             this.pictureBox5.Name = "pictureBox5";
@@ -301,7 +299,6 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Enabled = false;
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
             this.pictureBox4.Location = new System.Drawing.Point(59, 354);
             this.pictureBox4.Name = "pictureBox4";
@@ -345,7 +342,6 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Enabled = false;
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
             this.pictureBox3.Location = new System.Drawing.Point(59, 262);
             this.pictureBox3.Name = "pictureBox3";
@@ -389,7 +385,6 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Enabled = false;
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
             this.pictureBox2.Location = new System.Drawing.Point(59, 175);
             this.pictureBox2.Name = "pictureBox2";
@@ -433,7 +428,6 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Enabled = false;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(59, 81);
             this.pictureBox1.Name = "pictureBox1";
@@ -532,7 +526,6 @@
             // 
             // pictureBox12
             // 
-            this.pictureBox12.Enabled = false;
             this.pictureBox12.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox12.Image")));
             this.pictureBox12.Location = new System.Drawing.Point(42, 539);
             this.pictureBox12.Name = "pictureBox12";
@@ -576,7 +569,6 @@
             // 
             // pictureBox11
             // 
-            this.pictureBox11.Enabled = false;
             this.pictureBox11.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox11.Image")));
             this.pictureBox11.Location = new System.Drawing.Point(42, 448);
             this.pictureBox11.Name = "pictureBox11";
@@ -620,7 +612,6 @@
             // 
             // pictureBox10
             // 
-            this.pictureBox10.Enabled = false;
             this.pictureBox10.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox10.Image")));
             this.pictureBox10.Location = new System.Drawing.Point(42, 354);
             this.pictureBox10.Name = "pictureBox10";
@@ -664,7 +655,6 @@
             // 
             // pictureBox9
             // 
-            this.pictureBox9.Enabled = false;
             this.pictureBox9.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox9.Image")));
             this.pictureBox9.Location = new System.Drawing.Point(42, 262);
             this.pictureBox9.Name = "pictureBox9";
@@ -708,7 +698,6 @@
             // 
             // pictureBox8
             // 
-            this.pictureBox8.Enabled = false;
             this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
             this.pictureBox8.Location = new System.Drawing.Point(42, 175);
             this.pictureBox8.Name = "pictureBox8";
@@ -752,7 +741,6 @@
             // 
             // pictureBox7
             // 
-            this.pictureBox7.Enabled = false;
             this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
             this.pictureBox7.Location = new System.Drawing.Point(42, 78);
             this.pictureBox7.Name = "pictureBox7";
@@ -947,7 +935,6 @@
             this.richTextBox1.Size = new System.Drawing.Size(703, 420);
             this.richTextBox1.TabIndex = 5;
             this.richTextBox1.Text = "";
-
             // 
             // Form1
             // 
